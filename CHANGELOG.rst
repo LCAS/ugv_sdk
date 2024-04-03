@@ -2,8 +2,8 @@
 Changelog for package ugv_sdk
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.0 (2024-04-03)
+------------------
 * swapped catking for ament
 * [Release] bump verstion to 0.7.0
 * Merge pull request `#47 <https://github.com/LCAS/ugv_sdk/issues/47>`_ from agilexrobotics/devel
