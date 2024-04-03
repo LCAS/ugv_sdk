@@ -2,8 +2,8 @@
 Changelog for package ugv_sdk
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.1 (2024-04-03)
+------------------
 * new version
 * asio is full depend
 * Contributors: Marc Hanheide
