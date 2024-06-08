@@ -62,6 +62,16 @@ $ cd ..
 $ catkin_make
 ```
 
+### Build the package in a colcon workspace
+
+```
+$ cd <your-colcon-ws>/src
+$ git clone https://github.com/westonrobot/ugv_sdk.git
+$ cd ..
+$ rosdep update && rosdep install --from-paths . -y -i
+$ colcon build
+```
+
 ## Setup CAN-To-USB Adapter
 
 1. Enable gs_usb kernel module
